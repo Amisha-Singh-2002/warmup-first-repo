@@ -7,7 +7,10 @@ They work with modern technologies like Microsoft 365, SharePoint, Power BI, AI,
 Their aim is to help businesses grow through digital transformation, collaboration tools, and customized tech solutions
 
 
+📌 What I Learned from the FloCard Website
 
+FloCard is a sustainability platform that tracks real tree-planting activities with transparency.
 
+It creates a connected ecosystem of Individuals, Communities, and Tree Planters working together for environmental impact.
 
-
+It uses technology to verify tree plantations, show real data, and build trust in environmental contributions.
